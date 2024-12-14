@@ -8,7 +8,7 @@ const YourWork = () => {
       <div className="container mx-auto flex flex-col lg:flex-row items-center justify-center lg:justify-between space-y-10 lg:space-y-0 lg:space-x-10 max-w-6xl">
         {/* Hero Content */}
         <div className="content-left content-center w-full lg:w-1/2 text-white space-y-6">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-semibold leading-tight text-nowrap items-center">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-semibold leading-tight md:text-nowrap sm:text-wrap items-center">
             Your work, everywhere you are
           </h1>
 
